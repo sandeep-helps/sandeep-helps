@@ -60,6 +60,14 @@
 <a href="https://leetcode.com/u/sandeep-helps/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
+<a href="https://www.linkedin.com/in/sandeep-sharma-b1a91b29a/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="https://www.w3profile.com/sandeepsharma/" target="_blank">
+  <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" />
+</a>
+
 <a href="https://www.hackerrank.com/@sandeepsep5360" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
