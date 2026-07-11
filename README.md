@@ -12,19 +12,22 @@
 
 </div>
 
----
+<br>
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 💻 Building full-stack apps with the **MERN** stack (MongoDB, Express, React, Node.js)
-- 🧠 Sharpening problem-solving skills through **Data Structures & Algorithms**
-- 🌱 Currently learning **React Native**
-- 👯 Looking to collaborate on **Open Source Projects**
+I'm a full-stack developer who enjoys turning ideas into working products with the **MERN** stack, and sharpening my problem-solving edge through competitive programming.
+
+- 💻 Building full-stack apps with **MongoDB, Express, React & Node.js**
+- 🧠 Solving problems daily through **Data Structures & Algorithms**
+- 🏆 National Hackathon Winner
+- 🌱 Currently exploring **React Native**
+- 👯 Open to collaborating on **Open Source Projects**
 - 📫 Reach me at **sandeeps.helps@gmail.com**
 
----
+<br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -52,51 +55,51 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
+<br>
 
-### 🧩 DSA & Coding Profiles
+## 🧩 DSA & Coding Profiles
 
 <p align="left">
 <a href="https://leetcode.com/u/sandeep-helps/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-<a href="https://www.linkedin.com/in/sandeep-sharma-b1a91b29a/" target="_blank">
+<a href="https://www.geeksforgeeks.org/" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 <a href="https://www.w3profile.com/sandeepsharma/" target="_blank">
   <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" />
 </a>
-
 <a href="https://www.hackerrank.com/@sandeepsep5360" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 </p>
 
----
+<br>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sandeep-helps&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sandeep-helps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-helps&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-helps&theme=tokyonight&hide_border=true" width="60%" />
 
+<img src="https://img.shields.io/badge/Longest%20Streak-291%20days-brightgreen?style=for-the-badge&logo=fire&logoColor=white" />
+
 </div>
 
----
+<br>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sandeep-helps&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
----
+<br>
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sandeep-sharma-b1a91b29a/" target="_blank">
