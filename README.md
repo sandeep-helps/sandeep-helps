@@ -6,7 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=sandeep-helps&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-helps" />
 
-<a href="https://canva.link/hh8ibtn4qp68hiu">Resume</a>
+<a href="https://canva.link/hh8ibtn4qp68hiu">
+    <img src="https://img.shields.io/badge/📄%20Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" />
+</a>
 <a href="https://sandeeps.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="mailto:sandeeps.helps@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
