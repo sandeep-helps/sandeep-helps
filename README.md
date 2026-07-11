@@ -78,27 +78,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sandeep-helps&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-helps&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-helps&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sandeep-helps&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
